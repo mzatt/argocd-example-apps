@@ -4,4 +4,4 @@ spec:
   source:
     repoURL: https://github.com/mzatt/argocd-example-apps
     targetRevision: HEAD
-project: argo
+project: 94014aae
